@@ -1,0 +1,39 @@
+# Sample Knowledge Base — Demo Company: Nexus Support
+
+## About Us
+Nexus is a B2B SaaS platform that helps e-commerce brands automate their inventory management.
+We serve over 500 businesses across North America and Europe.
+
+## Pricing
+- Starter Plan: $49/month — up to 500 products, 1 warehouse
+- Growth Plan: $149/month — up to 5,000 products, 3 warehouses
+- Enterprise Plan: Custom pricing — unlimited products, dedicated support
+
+## Support Hours
+Our human support team is available Monday–Friday, 9am–6pm EST.
+Our AI agent is available 24/7 for instant answers.
+
+## Refund Policy
+We offer a 14-day money-back guarantee on all plans.
+To request a refund, email billing@nexusapp.com with your account email.
+
+## Integrations
+Nexus integrates with: Shopify, WooCommerce, Amazon, eBay, QuickBooks, and Zapier.
+
+## Getting Started
+1. Sign up at nexusapp.com
+2. Connect your e-commerce store via the Integrations tab
+3. Import your product catalog (CSV or API sync)
+4. Set reorder rules and alerts
+5. You are live in under 30 minutes!
+
+## Common FAQs
+
+Q: Can I import products from a CSV file?
+A: Yes! Go to Products then Import then Upload CSV. We support Shopify and WooCommerce export formats.
+
+Q: Do you offer a free trial?
+A: Yes, all plans come with a 14-day free trial. No credit card required.
+
+Q: What happens if I exceed my product limit?
+A: You will receive an email notification and can upgrade from Settings then Billing.
